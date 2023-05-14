@@ -1,5 +1,5 @@
-// const BASE_URL = 'https://rajasekhar.up.railway.app'
-const BASE_URL = 'http://localhost:8080'
+const BASE_URL = 'https://rajasekhar.up.railway.app'
+// const BASE_URL = 'http://localhost:8080'
 export const GET_ALL_TASKS = `${BASE_URL}/tasks/`
 export const CREATE_TASK = `${BASE_URL}/tasks/create`
 export const UPDATE_TASK = `${BASE_URL}/tasks/update`
