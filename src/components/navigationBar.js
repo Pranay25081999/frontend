@@ -1,7 +1,7 @@
 import TaskLogo from '../static/card-checklist.svg'
 import HomeLogo from '../static/house-door.svg'
 import TitleLogo from '../static/title.svg'
-import TaskPadLogo from '../static/pencil-square.svg'
+import TaskPadLogo from '../static/journal-text.svg'
 import { Link } from 'react-router-dom'
 
 const NavigationBar = () => {
